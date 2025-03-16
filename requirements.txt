@@ -1,0 +1,6 @@
+langchain              # Main LangChain framework
+langchain-community    # Community tools (like Wikipedia)
+langchain-groq         # Groq API integration
+streamlit              # Web interface
+numexpr                # For math calculations
+wikipedia              # For Wikipedia searches
